@@ -1,5 +1,5 @@
 # Real Full-Stack Todo App
-VDSVKDNKDCSJC
+VDSVKDNKD
 A real working task manager built with:
 
 - Frontend: React + TypeScript + Vite + Tailwind CSS
