@@ -1,7 +1,7 @@
 # Real Full-Stack Todo App
 
 A real working task manager built with:
-fkenfk
+fkenfkcdcj djcnjn
 - Frontend: React + TypeScript + Vite + Tailwind CSS
 - Backend: Node.js + Express + TypeScript
 - Database: MongoDB
