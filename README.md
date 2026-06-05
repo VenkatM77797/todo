@@ -7,7 +7,9 @@ A real working task manager built with:
 - Database: MongoDB
 - ORM: Prisma
 cjdsfjd
-cdsvdveivncdsnvdni
+cdsvdveivncdsnvdcdcbwebcuewc
+ewcvewuvbwevuweb
+bewuvbwevni
 This version is not a tilted design mockup. It is a real app layout with working create, read, update, complete, delete, search, filter, category, and stats features.
 
 ## 1. Install
