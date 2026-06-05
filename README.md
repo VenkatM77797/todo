@@ -6,7 +6,6 @@ A real working task manager built with:
 - Backend: Node.js + Express + TypeScript
 - Database: MongoDB
 - ORM: Prisma
-cjdsfjd
 
 This version is not a tilted design mockup. It is a real app layout with working create, read, update, complete, delete, search, filter, category, and stats features.
 
